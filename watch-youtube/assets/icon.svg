@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Video inspection">
+<!-- SPDX-License-Identifier: MIT -->
+<rect x="5" y="9" width="54" height="39" rx="7" fill="#25324a"/>
+<path d="M26 19 42 29 26 39Z" fill="#7de1d2"/>
+<path d="M14 55H50" stroke="#25324a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="46" cy="44" r="10" fill="#fff" stroke="#25324a" stroke-width="3"/>
+<path d="m53 51 7 7" stroke="#25324a" stroke-width="4" stroke-linecap="round"/>
+</svg>

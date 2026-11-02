@@ -1,0 +1,6 @@
+interface:
+  display_name: "Watch YouTube Videos"
+  short_description: "Retrieve and inspect video with timestamped evidence"
+  default_prompt: "Use $watch-youtube to retrieve this video and analyze its actual visuals with timestamped evidence."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"

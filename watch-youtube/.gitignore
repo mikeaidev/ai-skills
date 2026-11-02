@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+coverage.xml
+.coverage
+.DS_Store
+
+# Local credentials and transfer receipts
+.env
+.env.*
+*.pem
+*.key
+raw_receipt.json
+*_receipt_raw.json
+
+# Runtime inputs, captured media and generated evidence
+/media/
+/downloads/
+/runs/
+/outputs/
+/evidence/
+/dist/
+*.mp4
+*.mkv
+*.mka
+*.webm
+*.mov
+*.avi
+*.wav
+*.mp3
+*.ogg
+*.zip
+*.lock
